@@ -21,3 +21,10 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
 
 
 </table>
+
+
+| Project name | Description                                    | Skills              | Libraries      |
+|--------------|------------------------------------------------|---------------------|----------------|
+|              |                                                |                     | `pandas`, `numpy`, `matplotlib` |
+|              |                                                |                     | `pandas`, `scipy`, `seaborn`, `matplotlib`| 
+|              |                                                |                     | `pandas`, `sklearn`|
