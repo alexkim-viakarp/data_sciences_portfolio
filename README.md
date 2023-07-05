@@ -14,17 +14,16 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     </tr>
 
     <tr>
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <td></td>
+        <td>        </td>
+        <td>        </td>
+        <td>        </td>
     </tr>
-
 
 </table>
 
 
-| Project name | Description                                    | Skills              | Libraries      |
-|--------------|------------------------------------------------|---------------------|----------------|
-|              |                                                |                     | `pandas`, `numpy`, `matplotlib` |
-|              |                                                |                     | `pandas`, `scipy`, `seaborn`, `matplotlib`| 
-|              |                                                |                     | `pandas`, `sklearn`|
+| Project name               | Description                                    | Libraries      |
+|----------------------------|------------------------------------------------|----------------|
+| [Музыка больших городов]()   |Сравнить музыкальные предпочтения жителей городов Спрингфилд и Шелбивилль. Для сравениния используются реальные данные Яндекс.Музыки.                                                | `pandas`, `numpy`, `matplotlib` |
+|              |                                                | `pandas`, `scipy`, `seaborn`, `matplotlib`| 
+|              |                                                | `pandas`, `sklearn`|
